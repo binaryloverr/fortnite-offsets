@@ -67,7 +67,6 @@ RelativeLocation -> 0x120
 ComponentVelocity -> 0x168
 RelativeScale3D -> 0x150
 bAbsoluteLocation -> 0x180
-PhysicsVolume -> 0xA8
 bForceWireframe -> 0x75E
 SkeletalMesh -> 0x540
 TeamIndex -> 0x10F1

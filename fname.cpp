@@ -1,1 +1,1 @@
-https://discord.gg/YFMXF2Erhf here
+https://discord.gg/YFMXF2Erhf join here

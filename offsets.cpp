@@ -82,4 +82,4 @@ bIsInvulnerable -> 0x75a
 bIsDisconnectedPawn -> 0x12e8
 TargetedBuilding - 0x1710
 LocationUnderReticle -> 0x2560
-DisplayName (ftext_ptr) -> 0x30
+DisplayName (ftext_ptr) - 0x30
